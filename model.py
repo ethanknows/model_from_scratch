@@ -1,14 +1,5 @@
-
-# coding: utf-8
-
-# In[2]:
-
-
 import numpy as np
 import collections
-
-
-# In[97]:
 
 
 class knn(object):
